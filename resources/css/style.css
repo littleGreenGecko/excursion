@@ -21,3 +21,6 @@ h2 {
     font-size: 42px;
     color: white;
 }
+footer p {
+    text-align: right;
+} 
